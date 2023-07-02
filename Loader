@@ -1,0 +1,16 @@
+Loader Implementation - Absolute Loader is a critical component of computer systems responsible for 
+loading executable programs into memory for execution. This abstract provides an 
+overview of the absolute loader, highlighting its purpose, functionality, and 
+significance in the realm of computer programming.
+The absolute loader acts as an intermediary between the program and the operating 
+system, facilitating the smooth loading and execution of programs by resolving 
+memory addresses and managing program relocation. Its primary goal is to transform 
+the program's binary code into a format suitable for direct execution, thereby 
+ensuring efficient and error-free program execution.
+This abstract discusses the fundamental functionalities of an absolute loader, which 
+include parsing object files, allocating memory, resolving symbolic references, and 
+applying necessary relocations. The loader analyzes the object file's structure, 
+extracting relevant information such as memory requirements, entry points, and 
+external references. By mapping the program's logical addresses to physical memory 
+locations, the absolute loader enables the program to access required resources 
+during execution.
